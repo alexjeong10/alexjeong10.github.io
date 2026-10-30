@@ -7,19 +7,17 @@ nav_order: 2
 description:
 ---
 
+
 ## Education
 
-**Yonsei University**  
-Master's Student in Statistics and Data Science  
-*Present*
+**M.S. in Statistics and Data Science, Yonsei University (Present)**
 
-**Yonsei University**  
-Bachelor's Degree in Mathematics and Computer Science (Double Major)  
-*Mar. 2020 – Feb. 2026*
+- Advisor: [Prof. Kibok Lee](https://ml.yonsei.ac.kr/)
 
+**B.A. in Mathematics and Computer Science, Yonsei University (Mar. 2020 – Feb. 2026)**
+
+- Double Major in Mathematics and Computer Science
 - Graduated with Honors (Top 3% of the College)
 - Military Service: Jan. 2021 – Jul. 2022
 
-**University of California, Berkeley, USA**  
-Summer Session  
-*Jul. 2024 – Aug. 2024*
+**Summer Session, University of California, Berkeley (Jul. – Aug. 2024)**
