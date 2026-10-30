@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: myphoto.JPG
   image_circular: false
   more_info: >
     <p>
