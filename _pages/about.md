@@ -28,6 +28,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 ## About Me
 
 Welcome! I am a Master's student in Statistics and Data Science at Yonsei University, advised. Prior to that, I received my Bachelor's degree from Yonsei University, double majoring in Mathematics and Computer Science (Graduated with Honors, Top 3% of the College).
@@ -35,3 +36,60 @@ Welcome! I am a Master's student in Statistics and Data Science at Yonsei Univer
 ## Research Areas
 
 My research primarily focuses on deep learning. I am interested in understanding the gap between the ideal or optimal states of deep learning models and their actual behaviors. Recently, I have been working on Vision-Language Models (VLMs) and Multimodal Large Language Models (MLLMs). My earlier research focused on deep learning under long-tailed distributions.
+
+
+<style>
+/* Home: two-column layout */
+.post > article {
+  display: grid;
+  grid-template-columns: 240px minmax(0, 1fr);
+  column-gap: 64px;
+  align-items: start;
+}
+
+/* Left column: photo and email */
+.post > article > .profile {
+  grid-column: 1;
+  float: none !important;
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+}
+
+.post > article > .profile figure,
+.post > article > .profile img {
+  width: 100%;
+}
+
+.post > article > .profile .more-info {
+  overflow-wrap: anywhere;
+}
+
+/* Right column: all text */
+.post > article > .clearfix {
+  grid-column: 2;
+  min-width: 0;
+}
+
+/* Other sections, if enabled */
+.post > article > :not(.profile):not(.clearfix) {
+  grid-column: 1 / -1;
+}
+
+/* Mobile */
+@media (max-width: 767px) {
+  .post > article {
+    grid-template-columns: 1fr;
+    row-gap: 24px;
+  }
+
+  .post > article > .profile,
+  .post > article > .clearfix {
+    grid-column: 1;
+  }
+
+  .post > article > .profile {
+    max-width: 240px !important;
+  }
+}
+</style>
