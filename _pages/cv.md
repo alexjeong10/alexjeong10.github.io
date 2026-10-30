@@ -13,6 +13,7 @@ description:
 **M.S. in Statistics and Data Science, Yonsei University (Present)**
 
 - Advisor: [Prof. Kibok Lee](https://ml.yonsei.ac.kr/)
+- Research Mentor: [Prof. Jy-yong Sohn](https://itml.yonsei.ac.kr/)
 
 **B.A. in Mathematics and Computer Science, Yonsei University (Mar. 2020 – Feb. 2026)**
 
