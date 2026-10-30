@@ -15,7 +15,7 @@ description:
 - Advisor: [Prof. Kibok Lee](https://ml.yonsei.ac.kr/)
 - Research Mentor: [Prof. Jy-yong Sohn](https://itml.yonsei.ac.kr/)
 
-**B.A. in Mathematics and Computer Science, Yonsei University (Mar. 2020 – Feb. 2026)**
+**B.S. in Mathematics and Computer Science, Yonsei University (Mar. 2020 – Feb. 2026)**
 
 - Double Major in Mathematics and Computer Science
 - Graduated with Honors (Top 3% of the College)
