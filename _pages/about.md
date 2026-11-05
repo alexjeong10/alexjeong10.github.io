@@ -31,7 +31,7 @@ latest_posts:
 
 ## About Me
 
-Welcome! I am a Master's student in Statistics and Data Science at Yonsei University, advised by Prof. Kibok Lee (ML lab). Prior to that, I received my Bachelor's degree from Yonsei University, double majoring in Mathematics and Computer Science (Graduated with Honors, Top 3% of the College).
+Welcome! I am a Master's student in Statistics and Data Science at Yonsei University, advised by Prof. Kibok Lee ([ML lab](https://ml.yonsei.ac.kr/)). Prior to that, I received my Bachelor's degree from Yonsei University, double majoring in Mathematics and Computer Science (Graduated with Honors, Top 3% of the College).
 
 ## Research Areas
 
