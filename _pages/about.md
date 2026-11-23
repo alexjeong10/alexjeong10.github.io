@@ -31,13 +31,39 @@ latest_posts:
 
 ## About Me
 
-Welcome! I am a Master's student in Statistics and Data Science at Yonsei University, advised by Prof. Kibok Lee ([ML lab](https://ml.yonsei.ac.kr/)). Prior to that, I received my Bachelor's degree from Yonsei University, double majoring in Mathematics and Computer Science (Graduated with Honors, Top 3% of the College).
+Welcome! I am a Master's student in Statistics and Data Science at Yonsei University, advised by Prof. Kibok Lee ([ML lab](https://ml.yonsei.ac.kr/)).
 
 ## Research Areas
 
-My research primarily focuses on deep learning. I am interested in understanding the gap between the ideal or optimal states of deep learning models and their actual behaviors. Recently, I have been working on Vision-Language Models (VLMs) and Multimodal Large Language Models (MLLMs). My earlier research focused on deep learning under long-tailed distributions.
+My research primarily focuses on deep learning. I am interested in understanding the gap between the ideal or optimal states of deep learning models and their actual behaviors!
 
+- Representation Learning
+  
+- Vision-Language Models (VLMs)
+  
+- Multimodal Large Language Models (MLLMs)
 
+## Education
+
+**M.S. in Statistics and Data Science, Yonsei University (Present)**
+
+Advisor: Prof. [Kibok Lee](https://ml.yonsei.ac.kr/professor)
+
+**B.S. in Mathematics and Computer Science, Yonsei University (Mar. 2020 – Feb. 2026)**
+
+- _Magna Cum Laude_
+- Military Service: Jan. 2021 – Jul. 2022
+
+**Summer Session, University of California, Berkeley (Jul. – Aug. 2024)**
+
+## Academic Experiences
+
+# Teaching Assistant
+
+- Statistical Machine Learning (STA3142), Spring 2026
+
+- Computer Vision for Data Science (STA3143), Fall 2026
+  
 <style>
 /* Home: two-column layout */
 .post > article {
