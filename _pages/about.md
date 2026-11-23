@@ -64,12 +64,13 @@ Advisor: Prof. [Kibok Lee](https://ml.yonsei.ac.kr/professor)
 
 - Computer Vision for Data Science (STA3143), Fall 2026
   
+
 <style>
 /* Home: two-column layout */
 .post > article {
   display: grid;
-  grid-template-columns: 240px minmax(0, 1fr);
-  column-gap: 64px;
+  grid-template-columns: 220px minmax(0, 1fr);
+  column-gap: 72px;
   align-items: start;
 }
 
@@ -91,13 +92,45 @@ Advisor: Prof. [Kibok Lee](https://ml.yonsei.ac.kr/professor)
   overflow-wrap: anywhere;
 }
 
-/* Right column: all text */
+/* Right column: text */
 .post > article > .clearfix {
   grid-column: 2;
   min-width: 0;
 }
 
-/* Other sections, if enabled */
+/* Section spacing */
+.post > article > .clearfix > h2 {
+  margin-top: 48px;
+  margin-bottom: 20px;
+}
+
+.post > article > .clearfix > h2:first-child {
+  margin-top: 0;
+}
+
+.post > article > .clearfix > h3 {
+  margin-top: 28px;
+  margin-bottom: 16px;
+}
+
+/* Paragraph spacing */
+.post > article > .clearfix > p {
+  line-height: 1.85;
+  margin-bottom: 20px;
+}
+
+/* Bullet spacing */
+.post > article > .clearfix > ul {
+  margin-top: 12px;
+  margin-bottom: 28px;
+}
+
+.post > article > .clearfix > ul > li {
+  margin-bottom: 10px;
+  line-height: 1.75;
+}
+
+/* Other sections */
 .post > article > :not(.profile):not(.clearfix) {
   grid-column: 1 / -1;
 }
@@ -106,7 +139,7 @@ Advisor: Prof. [Kibok Lee](https://ml.yonsei.ac.kr/professor)
 @media (max-width: 767px) {
   .post > article {
     grid-template-columns: 1fr;
-    row-gap: 24px;
+    row-gap: 32px;
   }
 
   .post > article > .profile,
@@ -115,7 +148,7 @@ Advisor: Prof. [Kibok Lee](https://ml.yonsei.ac.kr/professor)
   }
 
   .post > article > .profile {
-    max-width: 240px !important;
+    max-width: 220px !important;
   }
 }
 </style>
