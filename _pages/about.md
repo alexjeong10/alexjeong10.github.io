@@ -99,8 +99,8 @@ Teaching Assistant
 
 /* Section spacing */
 .post > article > .clearfix > h2 {
-  margin-top: 48px;
-  margin-bottom: 20px;
+  margin-top: 28px;
+  margin-bottom: 12px;
 }
 
 .post > article > .clearfix > h2:first-child {
@@ -114,8 +114,8 @@ Teaching Assistant
 
 /* Paragraph spacing */
 .post > article > .clearfix > p {
-  line-height: 1.85;
-  margin-bottom: 20px;
+  line-height: 1.65;
+  margin-bottom: 12px;
 }
 
 /* Bullet spacing */
