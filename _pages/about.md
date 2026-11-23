@@ -35,7 +35,7 @@ Welcome! I am a Master's student in Statistics and Data Science at Yonsei Univer
 
 ## Research Areas
 
-My research primarily focuses on deep learning. I am interested in understanding the gap between the ideal or optimal states of deep learning models and their actual behaviors!
+My research primarily focuses on solving practical problems or understanding the gap between the optimal states of deep learning models and their actual behaviors!
 
 - Representation Learning
   
