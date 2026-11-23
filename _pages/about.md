@@ -46,8 +46,7 @@ My research primarily focuses on deep learning. I am interested in understanding
 ## Education
 
 **M.S. in Statistics and Data Science, Yonsei University (Present)**
-
-Advisor: Prof. [Kibok Lee](https://ml.yonsei.ac.kr/professor)
+- [ML lab](https://ml.yonsei.ac.kr/), Advisor: Prof. [Kibok Lee](https://ml.yonsei.ac.kr/professor)
 
 **B.S. in Mathematics and Computer Science, Yonsei University (Mar. 2020 – Feb. 2026)**
 
