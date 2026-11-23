@@ -58,7 +58,7 @@ Advisor: Prof. [Kibok Lee](https://ml.yonsei.ac.kr/professor)
 
 ## Academic Experiences
 
-# Teaching Assistant
+### Teaching Assistant
 
 - Statistical Machine Learning (STA3142), Spring 2026
 
